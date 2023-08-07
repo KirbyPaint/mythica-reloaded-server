@@ -677,6 +677,13 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_oak": "2023-08-07 00:06:02 -0700",
+      "in_village_jungle": "2023-08-07 00:16:21 -0700"
+    },
+    "done": false
+  },
   "morecfm:recipes/biomesoplenty_fir_upgraded_gate": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:09 -0700"
@@ -878,6 +885,12 @@
   "structurize:recipes/structurize.timber_frames/plain_acacia_dark_oak_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:03 -0700"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/center_of_the_labyrinth": {
+    "criteria": {
+      "ruined_keep": "2023-08-06 22:26:23 -0700"
     },
     "done": true
   },
@@ -2339,6 +2352,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-08-06 20:57:19 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:14 -0700"
@@ -2506,6 +2525,12 @@
       "has_the_recipe": "2023-08-03 20:31:18 -0700"
     },
     "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2023-08-06 23:30:33 -0700"
+    },
+    "done": false
   },
   "structurize:recipes/structurize.timber_frames/plain_acacia_terracotta_timber_frame_crafted": {
     "criteria": {
@@ -5399,6 +5424,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2023-08-06 21:53:55 -0700"
+    },
+    "done": true
+  },
   "morecfm:recipes/biomesoplenty_mahogany_chair": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:03 -0700"
@@ -5690,6 +5721,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2023-08-06 21:53:55 -0700"
     },
     "done": true
   },
@@ -7312,6 +7349,12 @@
       "has_the_recipe": "2023-08-03 20:30:56 -0700"
     },
     "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_oak": "2023-08-06 23:33:57 -0700"
+    },
+    "done": false
   },
   "structurize:recipes/structurize.timber_frames/plain_birch_spruce_timber_frame": {
     "criteria": {
@@ -10713,6 +10756,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2023-08-06 19:57:09 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/framed_warped_brown_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:02 -0700"
@@ -11922,6 +11971,12 @@
   "morecfm:recipes/biomesoplenty_stripped_redwood_park_bench": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:09 -0700"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/end_of_the_labyrinth": {
+    "criteria": {
+      "killed_something": "2023-08-06 23:21:41 -0700"
     },
     "done": true
   },
@@ -13950,6 +14005,12 @@
   "structurize:recipes/structurize.timber_frames/horizontal_plain_cactus_jungle_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:09 -0700"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2023-08-06 21:53:50 -0700"
     },
     "done": true
   },
@@ -16740,6 +16801,12 @@
   "biomesoplenty:recipes/building_blocks/stripped_willow_wood": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2023-08-06 20:36:23 -0700"
     },
     "done": true
   },
@@ -21263,6 +21330,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2023-08-06 23:41:17 -0700"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:13 -0700"
@@ -23054,6 +23127,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_icy": "2023-08-06 21:38:40 -0700"
+    },
+    "done": false
+  },
   "structurize:recipes/structurize.shingles/pink_clay_warped_shingle": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:06 -0700"
@@ -23076,7 +23155,13 @@
     "criteria": {
       "minecraft:pillager": "2023-08-06 15:32:42 -0700",
       "minecraft:skeleton": "2023-08-06 15:48:53 -0700",
+      "minecraft:spider": "2023-08-06 20:30:55 -0700",
+      "minecraft:creeper": "2023-08-06 21:56:30 -0700",
+      "minecraft:witch": "2023-08-06 23:59:03 -0700",
+      "minecraft:wither_skeleton": "2023-08-06 21:29:06 -0700",
+      "minecraft:cave_spider": "2023-08-06 20:59:05 -0700",
       "minecraft:stray": "2023-08-06 17:37:02 -0700",
+      "minecraft:silverfish": "2023-08-06 21:14:12 -0700",
       "minecraft:zombie": "2023-08-06 13:14:23 -0700"
     },
     "done": false
@@ -32267,6 +32352,12 @@
     },
     "done": true
   },
+  "awesomedungeon:the_ztower/find_normal": {
+    "criteria": {
+      "requirement": "2023-08-06 20:07:48 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/side_framed_dark_oak_brown_stone_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:08 -0700"
@@ -32432,6 +32523,12 @@
   "structurize:recipes/structurize.timber_frames/horizontal_plain_acacia_acacia_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:09 -0700"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2023-08-06 21:44:54 -0700"
     },
     "done": true
   },
@@ -32783,6 +32880,12 @@
     },
     "done": true
   },
+  "goblinsanddungeons:recipes/building_blocks/scoria_brick_slab": {
+    "criteria": {
+      "has_item": "2023-08-06 22:30:37 -0700"
+    },
+    "done": true
+  },
   "morecfm:recipes/biomesoplenty_redwood_bedside_cabinet": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:06 -0700"
@@ -32957,14 +33060,21 @@
       "seasonal_pumpkin_patch": "2023-08-04 21:45:54 -0700",
       "scrubland": "2023-08-04 22:02:40 -0700",
       "fungal_jungle": "2023-08-04 21:54:10 -0700",
+      "redwood_forest_edge": "2023-08-06 22:09:05 -0700",
       "highland": "2023-08-06 15:20:15 -0700",
       "marsh": "2023-08-06 15:06:37 -0700",
       "flower_meadow": "2023-08-06 17:11:41 -0700",
+      "wooded_scrubland": "2023-08-06 22:01:36 -0700",
       "rainforest_floodplain": "2023-08-06 13:29:28 -0700",
       "snowy_maple_forest": "2023-08-06 17:40:25 -0700",
       "coniferous_forest": "2023-08-06 16:09:58 -0700",
       "alps": "2023-08-06 16:17:20 -0700",
+      "dry_boneyard": "2023-08-06 22:05:57 -0700",
+      "cherry_blossom_grove": "2023-08-06 23:36:57 -0700",
+      "seasonal_orchard": "2023-08-06 23:07:45 -0700",
       "seasonal_forest": "2023-08-06 15:21:31 -0700",
+      "dense_woodland": "2023-08-06 23:05:20 -0700",
+      "mystic_plains": "2023-08-06 23:49:28 -0700",
       "dead_forest": "2023-08-06 17:00:18 -0700",
       "highland_crag": "2023-08-06 15:16:26 -0700",
       "meadow": "2023-08-06 15:57:27 -0700",
@@ -34611,6 +34721,17 @@
       "has_the_recipe": "2023-08-03 20:31:16 -0700"
     },
     "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/goblin_slayer": {
+    "criteria": {
+      "goblo": "2023-08-06 22:25:29 -0700",
+      "garch": "2023-08-06 22:24:16 -0700",
+      "goom": "2023-08-06 22:25:38 -0700",
+      "gobber": "2023-08-06 22:25:19 -0700",
+      "gob": "2023-08-06 22:25:23 -0700",
+      "hobgob": "2023-08-06 22:25:10 -0700"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
@@ -38290,6 +38411,12 @@
     },
     "done": true
   },
+  "goblinsanddungeons:goblinsanddungeons/ogres_are_like_onions": {
+    "criteria": {
+      "killed_something": "2023-08-06 22:43:37 -0700"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_blinds": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:05 -0700"
@@ -38437,6 +38564,7 @@
       "minecraft:beach": "2023-08-06 15:58:20 -0700",
       "minecraft:dark_forest": "2023-08-04 21:24:52 -0700",
       "minecraft:river": "2023-08-04 22:11:04 -0700",
+      "minecraft:snowy_taiga": "2023-08-06 20:25:44 -0700",
       "minecraft:stone_shore": "2023-08-06 16:20:53 -0700",
       "minecraft:swamp": "2023-08-06 15:06:38 -0700",
       "minecraft:savanna": "2023-08-03 20:31:18 -0700",

@@ -821,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2023-08-06 21:04:44 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/up_gated_birch_jungle_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:40:56 -0700"
@@ -1409,6 +1415,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/trampoline": {
+    "criteria": {
+      "has_iron": "2023-08-06 20:36:37 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:41:03 -0700"
@@ -1424,6 +1436,12 @@
   "structurize:recipes/structurize.shingles/lime_clay_birch_shingle": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:40:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/betternether/taburet_dark_oak_from_dark_oak_slab": {
+    "criteria": {
+      "dark_oak_slab": "2023-08-07 00:44:47 -0700"
     },
     "done": true
   },
@@ -3320,6 +3338,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:40:37 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/betternether/bar_stool_dark_oak_from_dark_oak_slab": {
+    "criteria": {
+      "dark_oak_slab": "2023-08-07 00:44:47 -0700"
     },
     "done": true
   },
@@ -8325,6 +8349,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2023-08-06 21:46:45 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/framed_oak_oak_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:40:45 -0700"
@@ -8886,6 +8916,12 @@
   "bountifulbaubles:recipes/bountifulbaubles/disintegration/amulet_sin_pride": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:40:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/betternether/chair_dark_oak_from_dark_oak_slab": {
+    "criteria": {
+      "dark_oak_slab": "2023-08-07 00:44:47 -0700"
     },
     "done": true
   },
@@ -10683,6 +10719,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2023-08-06 21:02:00 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/framed_warped_brown_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:40:54 -0700"
@@ -12258,6 +12300,12 @@
   "structurize:recipes/structurize.timber_frames/side_framed_oak_blue_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:40:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2023-08-06 20:36:37 -0700"
     },
     "done": true
   },
@@ -16653,6 +16701,12 @@
     },
     "done": true
   },
+  "betternether:recipes/betternether/chair_dark_oak_from_dark_oak_slab": {
+    "criteria": {
+      "dark_oak_slab": "2023-08-07 00:44:47 -0700"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_picket_fence": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:40:52 -0700"
@@ -18875,6 +18929,12 @@
   "structurize:recipes/structurize.timber_frames/plain_dark_oak_beige_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:40:48 -0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/betternether/taburet_dark_oak_from_dark_oak_slab": {
+    "criteria": {
+      "dark_oak_slab": "2023-08-07 00:44:47 -0700"
     },
     "done": true
   },
@@ -22922,6 +22982,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_icy": "2023-08-06 21:38:45 -0700"
+    },
+    "done": false
+  },
   "structurize:recipes/structurize.shingles/pink_clay_warped_shingle": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:40:49 -0700"
@@ -22946,6 +23012,10 @@
       "minecraft:skeleton": "2023-08-03 23:07:40 -0700",
       "minecraft:spider": "2023-08-03 23:08:23 -0700",
       "minecraft:creeper": "2023-08-03 23:26:54 -0700",
+      "minecraft:wither_skeleton": "2023-08-06 21:29:19 -0700",
+      "minecraft:cave_spider": "2023-08-06 20:59:07 -0700",
+      "minecraft:silverfish": "2023-08-06 21:13:13 -0700",
+      "minecraft:stray": "2023-08-06 21:12:23 -0700",
       "minecraft:zombie": "2023-08-03 20:45:58 -0700"
     },
     "done": false
@@ -32262,6 +32332,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2023-08-06 21:48:03 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/side_framed_warped_magenta_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:40:33 -0700"
@@ -32775,6 +32851,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "seasonal_pumpkin_patch": "2023-08-03 18:48:57 -0700",
+      "alps": "2023-08-06 20:10:27 -0700",
+      "snowy_fir_clearing": "2023-08-06 21:12:25 -0700",
       "grove": "2023-08-03 23:36:19 -0700"
     },
     "done": false
@@ -38182,8 +38260,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2023-08-03 23:27:27 -0700",
+      "minecraft:snowy_tundra": "2023-08-06 20:14:30 -0700",
       "minecraft:birch_forest": "2023-08-03 23:33:13 -0700",
       "minecraft:dark_forest": "2023-08-03 23:37:13 -0700",
+      "minecraft:snowy_taiga": "2023-08-06 20:57:34 -0700",
       "minecraft:savanna": "2023-08-03 18:46:36 -0700"
     },
     "done": false
@@ -39307,6 +39387,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:40:47 -0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/betternether/bar_stool_dark_oak_from_dark_oak_slab": {
+    "criteria": {
+      "dark_oak_slab": "2023-08-07 00:44:47 -0700"
     },
     "done": true
   },

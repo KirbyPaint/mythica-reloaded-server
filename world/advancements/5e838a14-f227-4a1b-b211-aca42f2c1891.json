@@ -899,6 +899,12 @@
     },
     "done": true
   },
+  "goblinsanddungeons:goblinsanddungeons/center_of_the_labyrinth": {
+    "criteria": {
+      "ruined_keep": "2023-08-06 23:21:11 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/horizontal_plain_cactus_warped_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:13 -0700"
@@ -4151,6 +4157,12 @@
   "minecolonies:recipes/food/baked_cake_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:13 -0700"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2023-08-06 20:18:54 -0700"
     },
     "done": true
   },
@@ -15778,6 +15790,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2023-08-06 21:50:38 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/horizontal_plain_acacia_crimson_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:15 -0700"
@@ -23090,6 +23108,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:jellyfish_killed": {
+    "criteria": {
+      "jellyfish_kill": "2023-08-06 21:33:50 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:17 -0700"
@@ -23531,6 +23555,7 @@
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_icy": "2023-08-05 22:05:54 -0700",
+      "in_mineshaft_dark_forest": "2023-08-06 21:48:36 -0700",
       "in_mineshaft_taiga": "2023-08-05 23:09:11 -0700",
       "in_mineshaft_savanna": "2023-08-06 11:14:15 -0700"
     },
@@ -23566,6 +23591,7 @@
       "minecraft:blaze": "2023-08-05 22:47:17 -0700",
       "minecraft:skeleton": "2023-08-04 00:11:48 -0700",
       "minecraft:ghast": "2023-08-05 22:39:14 -0700",
+      "minecraft:vindicator": "2023-08-06 22:14:55 -0700",
       "minecraft:magma_cube": "2023-08-04 14:07:03 -0700",
       "minecraft:spider": "2023-08-03 22:46:09 -0700",
       "minecraft:piglin_brute": "2023-08-05 22:29:53 -0700",
@@ -31752,6 +31778,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "trig": "2023-08-06 21:26:19 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/down_gated_crimson_beige_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:13 -0700"
@@ -33060,6 +33092,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2023-08-06 21:30:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:23 -0700"
@@ -33647,7 +33685,11 @@
       "alps": "2023-08-05 12:54:08 -0700",
       "dry_boneyard": "2023-08-04 10:37:29 -0700",
       "redwood_forest": "2023-08-06 12:11:42 -0700",
+      "cherry_blossom_grove": "2023-08-06 23:31:02 -0700",
+      "seasonal_orchard": "2023-08-06 21:34:29 -0700",
+      "seasonal_forest": "2023-08-06 19:48:06 -0700",
       "grove_lakes": "2023-08-04 00:52:26 -0700",
+      "mystic_plains": "2023-08-06 23:55:08 -0700",
       "meadow": "2023-08-04 15:37:45 -0700",
       "burnt_forest": "2023-08-04 15:40:29 -0700",
       "fir_clearing": "2023-08-05 12:49:30 -0700",
@@ -35514,6 +35556,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2023-08-06 20:22:49 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.shingles/cyan_clay_warped_shingle": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:19 -0700"
@@ -35709,6 +35757,12 @@
   "morecfm:recipes/biomesoplenty_redwood_mail_box": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:26 -0700"
+    },
+    "done": true
+  },
+  "betteranimalsplus:jellyfish_sting": {
+    "criteria": {
+      "jellyfish_sting": "2023-08-06 21:33:29 -0700"
     },
     "done": true
   },
