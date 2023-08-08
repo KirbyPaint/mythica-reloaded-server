@@ -23557,6 +23557,7 @@
       "in_mineshaft_icy": "2023-08-05 22:05:54 -0700",
       "in_mineshaft_dark_forest": "2023-08-06 21:48:36 -0700",
       "in_mineshaft_taiga": "2023-08-05 23:09:11 -0700",
+      "in_mineshaft_nether": "2023-08-07 12:23:56 -0700",
       "in_mineshaft_savanna": "2023-08-06 11:14:15 -0700"
     },
     "done": false
@@ -24468,6 +24469,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2023-08-07 12:26:28 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/horizontal_plain_oak_magenta_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:19 -0700"
@@ -24957,6 +24964,12 @@
   "structurize:recipes/structurize.timber_frames/one_crossed_rl_spruce_cream_stone_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2023-08-07 18:44:20 -0700"
     },
     "done": true
   },
@@ -27226,7 +27239,8 @@
     "criteria": {
       "minecraft:pig": "2023-08-05 18:42:27 -0700",
       "minecraft:sheep": "2023-08-05 18:42:43 -0700",
-      "minecraft:chicken": "2023-08-05 19:02:31 -0700"
+      "minecraft:chicken": "2023-08-05 19:02:31 -0700",
+      "minecraft:bee": "2023-08-07 17:59:41 -0700"
     },
     "done": false
   },
@@ -27896,6 +27910,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2023-08-07 15:22:34 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/down_gated_cactus_magenta_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:25 -0700"
@@ -28217,6 +28237,12 @@
   "structurize:recipes/structurize.timber_frames/side_framed_crimson_oak_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:16 -0700"
+    },
+    "done": true
+  },
+  "mana-and-artifice:codex_trade": {
+    "criteria": {
+      "get_guide_book": "2023-08-07 11:30:10 -0700"
     },
     "done": true
   },
@@ -33672,6 +33698,7 @@
     "criteria": {
       "seasonal_pumpkin_patch": "2023-08-03 22:39:30 -0700",
       "scrubland": "2023-08-04 00:57:43 -0700",
+      "wetland_forest": "2023-08-07 15:06:25 -0700",
       "fungal_jungle": "2023-08-04 00:53:10 -0700",
       "tundra_basin": "2023-08-04 15:38:50 -0700",
       "flower_meadow": "2023-08-04 15:53:35 -0700",
@@ -33694,6 +33721,7 @@
       "burnt_forest": "2023-08-04 15:40:29 -0700",
       "fir_clearing": "2023-08-05 12:49:30 -0700",
       "snowy_coniferous_forest": "2023-08-05 13:07:17 -0700",
+      "snowy_fir_clearing": "2023-08-07 16:21:33 -0700",
       "grove": "2023-08-04 18:18:50 -0700",
       "gravel_beach": "2023-08-06 12:03:17 -0700",
       "rainforest": "2023-08-06 12:38:11 -0700"
@@ -35433,6 +35461,12 @@
   "cfm:recipes/cfm/diorite_desk_cabinet": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:27 -0700"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2023-08-07 14:45:15 -0700"
     },
     "done": true
   },
@@ -37842,6 +37876,12 @@
     },
     "done": true
   },
+  "awesomedungeon:the_ztower/find_during_storm": {
+    "criteria": {
+      "requirement": "2023-08-07 13:58:21 -0700"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:21 -0700"
@@ -39254,6 +39294,7 @@
       "minecraft:dark_forest": "2023-08-04 14:25:51 -0700",
       "minecraft:river": "2023-08-04 14:23:25 -0700",
       "minecraft:lukewarm_ocean": "2023-08-06 12:27:37 -0700",
+      "minecraft:snowy_taiga": "2023-08-07 16:25:24 -0700",
       "minecraft:savanna": "2023-08-03 22:17:30 -0700",
       "minecraft:plains": "2023-08-06 12:17:58 -0700"
     },
