@@ -12682,6 +12682,12 @@
     },
     "done": true
   },
+  "betternether:recipes/betternether/glowstone_stalactite_from_glowstone": {
+    "criteria": {
+      "glowstone": "2023-08-08 17:02:23 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.shingles/gilded_blackstone_birch_shingle": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:24 -0700"
@@ -27994,6 +28000,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/stymphalian_arrow": {
+    "criteria": {
+      "bestiary": "2023-08-08 10:09:51 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_birch_birch_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:16 -0700"
@@ -35138,6 +35150,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2023-08-08 11:39:04 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:23 -0700"
@@ -38491,6 +38509,12 @@
   "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/betternether/glowstone_stalactite_from_glowstone": {
+    "criteria": {
+      "glowstone": "2023-08-08 17:02:23 -0700"
     },
     "done": true
   },

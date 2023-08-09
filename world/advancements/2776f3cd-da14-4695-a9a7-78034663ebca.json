@@ -680,6 +680,7 @@
   "repurposed_structures:villages": {
     "criteria": {
       "in_village_birch": "2023-08-07 22:42:07 -0700",
+      "in_village_dark_oak": "2023-08-08 22:13:11 -0700",
       "in_village_oak": "2023-08-07 00:06:02 -0700",
       "in_village_jungle": "2023-08-07 00:16:21 -0700"
     },
@@ -2624,6 +2625,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2023-08-08 20:59:14 -0700"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/blockhutlibrary": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:05 -0700"
@@ -3755,6 +3762,12 @@
   "morecfm:recipes/biomesoplenty_dead_bedside_cabinet": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:05 -0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/betternether/bar_stool_acacia_from_acacia_slab": {
+    "criteria": {
+      "acacia_slab": "2023-08-08 23:02:43 -0700"
     },
     "done": true
   },
@@ -9078,6 +9091,12 @@
     },
     "done": true
   },
+  "betternether:recipes/betternether/roof_tile_nether_bricks_from_nether_bricks": {
+    "criteria": {
+      "nether_bricks": "2023-08-08 21:09:06 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.shingles/gray_clay_jungle_shingle": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:08 -0700"
@@ -12418,6 +12437,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2023-08-04 22:06:46 -0700"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2023-08-08 12:38:30 -0700"
     },
     "done": true
   },
@@ -15913,6 +15938,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2023-08-08 21:08:21 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/down_gated_cactus_jungle_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:30:54 -0700"
@@ -19241,6 +19272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/betternether/taburet_acacia_from_acacia_slab": {
+    "criteria": {
+      "acacia_slab": "2023-08-08 23:02:43 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_oak_cream_stone_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:11 -0700"
@@ -20183,6 +20220,12 @@
     },
     "done": true
   },
+  "betternether:recipes/betternether/chair_acacia_from_acacia_slab": {
+    "criteria": {
+      "acacia_slab": "2023-08-08 23:02:43 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:30:58 -0700"
@@ -20360,6 +20403,12 @@
   "structurize:recipes/structurize.timber_frames/horizontal_plain_acacia_purple_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/betternether/chair_acacia_from_acacia_slab": {
+    "criteria": {
+      "acacia_slab": "2023-08-08 23:02:43 -0700"
     },
     "done": true
   },
@@ -23269,7 +23318,8 @@
       "minecraft:stray": "2023-08-06 17:37:02 -0700",
       "minecraft:silverfish": "2023-08-06 21:14:12 -0700",
       "minecraft:enderman": "2023-08-07 22:28:04 -0700",
-      "minecraft:zombie": "2023-08-06 13:14:23 -0700"
+      "minecraft:zombie": "2023-08-06 13:14:23 -0700",
+      "minecraft:drowned": "2023-08-08 22:26:47 -0700"
     },
     "done": false
   },
@@ -24707,6 +24757,12 @@
     },
     "done": true
   },
+  "betternether:recipes/betternether/taburet_acacia_from_acacia_slab": {
+    "criteria": {
+      "acacia_slab": "2023-08-08 23:02:43 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.shingles/moss_slate_shingle_slab": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:12 -0700"
@@ -26039,6 +26095,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/acacia_post": {
+    "criteria": {
+      "has_item": "2023-08-08 23:02:43 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_spruce_blue_terracotta_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:17 -0700"
@@ -26420,6 +26482,12 @@
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:18 -0700"
+    },
+    "done": true
+  },
+  "spartanweaponry:parrying_dagger": {
+    "criteria": {
+      "has_parrying_dagger": "2023-08-08 21:12:31 -0700"
     },
     "done": true
   },
@@ -28496,6 +28564,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_wood": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:05 -0700"
+    },
+    "done": true
+  },
+  "spartanweaponry:pike": {
+    "criteria": {
+      "has_pike": "2023-08-08 12:29:38 -0700"
     },
     "done": true
   },
@@ -31691,6 +31765,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2023-08-08 22:51:55 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize/green_floating_carpet": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:15 -0700"
@@ -33220,6 +33300,7 @@
       "marsh": "2023-08-06 15:06:37 -0700",
       "tundra_basin": "2023-08-07 12:44:18 -0700",
       "flower_meadow": "2023-08-06 17:11:41 -0700",
+      "grove_clearing": "2023-08-08 23:18:34 -0700",
       "meadow_forest": "2023-08-07 14:24:07 -0700",
       "mystic_grove": "2023-08-07 16:34:14 -0700",
       "wooded_scrubland": "2023-08-06 22:01:36 -0700",
@@ -33230,6 +33311,7 @@
       "coniferous_forest": "2023-08-06 16:09:58 -0700",
       "alps": "2023-08-06 16:17:20 -0700",
       "dry_boneyard": "2023-08-06 22:05:57 -0700",
+      "redwood_forest": "2023-08-08 22:41:24 -0700",
       "cherry_blossom_grove": "2023-08-06 23:36:57 -0700",
       "seasonal_orchard": "2023-08-06 23:07:45 -0700",
       "seasonal_forest": "2023-08-06 15:21:31 -0700",
@@ -37581,6 +37663,12 @@
     },
     "done": true
   },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2023-08-08 12:29:38 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_warped_pink_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:04 -0700"
@@ -37680,6 +37768,12 @@
   "morecfm:recipes/biomesoplenty_hellbark_chair": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/betternether/roof_tile_nether_bricks_from_nether_bricks": {
+    "criteria": {
+      "nether_bricks": "2023-08-08 21:09:06 -0700"
     },
     "done": true
   },
@@ -40264,6 +40358,12 @@
       "in_ruins_land_warm": "2023-08-06 13:42:38 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/betternether/bar_stool_acacia_from_acacia_slab": {
+    "criteria": {
+      "acacia_slab": "2023-08-08 23:02:43 -0700"
+    },
+    "done": true
   },
   "structurize:recipes/structurize.timber_frames/plain_acacia_blackstone_timber_frame_crafted": {
     "criteria": {
