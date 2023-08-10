@@ -691,7 +691,8 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
-      "in_village_dark_oak": "2023-08-06 12:30:22 -0700"
+      "in_village_dark_oak": "2023-08-06 12:30:22 -0700",
+      "in_village_giant_taiga": "2023-08-09 14:12:57 -0700"
     },
     "done": false
   },
@@ -8402,6 +8403,12 @@
     },
     "done": true
   },
+  "mana-and-artifice:use_bonefeather": {
+    "criteria": {
+      "get_vinteum_coated_iron": "2023-08-09 17:50:24 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.shingles/green_clay_warped_shingle": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:22 -0700"
@@ -12243,6 +12250,12 @@
     },
     "done": true
   },
+  "goblinsanddungeons:goblinsanddungeons/end_of_the_labyrinth": {
+    "criteria": {
+      "killed_something": "2023-08-09 14:15:18 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/one_crossed_rl_crimson_bricks_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:25 -0700"
@@ -12366,6 +12379,12 @@
   "structurize:recipes/structurize.timber_frames/up_gated_crimson_blackstone_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:27 -0700"
+    },
+    "done": true
+  },
+  "dungeonsmod:dungeons/kraken": {
+    "criteria": {
+      "kill_kraken": "2023-08-09 13:01:13 -0700"
     },
     "done": true
   },
@@ -12515,6 +12534,8 @@
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
+      "entered_ice_pit": "2023-08-09 13:43:09 -0700",
+      "entered_elders_temple": "2023-08-09 13:10:18 -0700",
       "entered_castle": "2023-08-05 12:51:48 -0700",
       "entered_jungle_monument": "2023-08-04 09:33:11 -0700"
     },
@@ -16500,7 +16521,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_icy": "2023-08-05 12:55:08 -0700"
+      "in_pyramid_icy": "2023-08-05 12:55:08 -0700",
+      "in_pyramid_snowy": "2023-08-09 13:23:58 -0700"
     },
     "done": false
   },
@@ -16753,6 +16775,12 @@
   "structurize:recipes/structurize.timber_frames/double_crossed_spruce_green_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:19 -0700"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:adventure/tooth_fairy": {
+    "criteria": {
+      "thrasher_tooth": "2023-08-09 13:35:07 -0700"
     },
     "done": true
   },
@@ -18050,6 +18078,12 @@
   "structurize:recipes/structurize.timber_frames/plain_spruce_paper_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:28 -0700"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_snowy_temple": {
+    "criteria": {
+      "structure": "2023-08-09 13:46:14 -0700"
     },
     "done": true
   },
@@ -20864,6 +20898,12 @@
     },
     "done": true
   },
+  "dungeons_plus:adventure/find_warped_garden": {
+    "criteria": {
+      "structure": "2023-08-09 13:09:09 -0700"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/soul_brazier": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:26 -0700"
@@ -20957,6 +20997,12 @@
   "structurize:recipes/structurize.timber_frames/plain_spruce_spruce_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:24 -0700"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_the_column_temple/find_normal": {
+    "criteria": {
+      "requirement": "2023-08-09 13:07:35 -0700"
     },
     "done": true
   },
@@ -23399,7 +23445,9 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2023-08-04 14:25:40 -0700",
+      "entered_elders_temple": "2023-08-09 13:10:18 -0700",
       "entered_large_dungeon": "2023-08-04 10:37:16 -0700",
+      "entered_ice_pit": "2023-08-09 13:43:09 -0700",
       "entered_castle": "2023-08-05 12:51:48 -0700",
       "entered_tree_house": "2023-08-04 14:30:34 -0700",
       "entered_ruined_building": "2023-08-04 15:37:39 -0700",
@@ -23602,6 +23650,7 @@
       "minecraft:magma_cube": "2023-08-04 14:07:03 -0700",
       "minecraft:spider": "2023-08-03 22:46:09 -0700",
       "minecraft:piglin_brute": "2023-08-05 22:29:53 -0700",
+      "upgrade_aquatic:thrasher": "2023-08-09 13:32:59 -0700",
       "minecraft:creeper": "2023-08-04 11:34:21 -0700",
       "minecraft:slime": "2023-08-06 00:15:21 -0700",
       "minecraft:zombified_piglin": "2023-08-04 14:19:01 -0700",
@@ -30418,6 +30467,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:sunken_deeps": {
+    "criteria": {
+      "entered_elders_temple": "2023-08-09 13:10:18 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_jungle_crimson_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:26 -0700"
@@ -33532,6 +33587,12 @@
     },
     "done": true
   },
+  "goblinsanddungeons:recipes/building_blocks/scoria_brick_slab": {
+    "criteria": {
+      "has_item": "2023-08-09 14:18:08 -0700"
+    },
+    "done": true
+  },
   "morecfm:recipes/biomesoplenty_redwood_bedside_cabinet": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:28 -0700"
@@ -33712,8 +33773,10 @@
       "scrubland": "2023-08-04 00:57:43 -0700",
       "wetland_forest": "2023-08-07 15:06:25 -0700",
       "fungal_jungle": "2023-08-04 00:53:10 -0700",
+      "highland": "2023-08-09 13:16:09 -0700",
       "tundra_basin": "2023-08-04 15:38:50 -0700",
       "flower_meadow": "2023-08-04 15:53:35 -0700",
+      "grove_clearing": "2023-08-09 14:46:07 -0700",
       "meadow_forest": "2023-08-05 23:15:51 -0700",
       "mystic_grove": "2023-08-06 12:15:12 -0700",
       "wooded_scrubland": "2023-08-04 09:29:06 -0700",
@@ -33729,6 +33792,7 @@
       "seasonal_forest": "2023-08-06 19:48:06 -0700",
       "grove_lakes": "2023-08-04 00:52:26 -0700",
       "mystic_plains": "2023-08-06 23:55:08 -0700",
+      "highland_crag": "2023-08-09 13:15:40 -0700",
       "meadow": "2023-08-04 15:37:45 -0700",
       "burnt_forest": "2023-08-04 15:40:29 -0700",
       "fir_clearing": "2023-08-05 12:49:30 -0700",
@@ -33736,7 +33800,8 @@
       "snowy_fir_clearing": "2023-08-07 16:21:33 -0700",
       "grove": "2023-08-04 18:18:50 -0700",
       "gravel_beach": "2023-08-06 12:03:17 -0700",
-      "rainforest": "2023-08-06 12:38:11 -0700"
+      "rainforest": "2023-08-06 12:38:11 -0700",
+      "ominous_woods": "2023-08-09 14:38:34 -0700"
     },
     "done": false
   },
@@ -35406,7 +35471,10 @@
     "criteria": {
       "goblo": "2023-08-06 12:09:22 -0700",
       "garch": "2023-08-06 12:09:39 -0700",
-      "gob": "2023-08-06 12:09:21 -0700"
+      "goom": "2023-08-09 14:14:46 -0700",
+      "gobber": "2023-08-09 14:14:45 -0700",
+      "gob": "2023-08-06 12:09:21 -0700",
+      "hobgob": "2023-08-09 14:15:03 -0700"
     },
     "done": false
   },
@@ -37111,6 +37179,12 @@
   "structurize:recipes/structurize.timber_frames/up_gated_oak_lime_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:16 -0700"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:chilled_halls": {
+    "criteria": {
+      "entered_ice_pit": "2023-08-09 13:43:09 -0700"
     },
     "done": true
   },
@@ -39172,6 +39246,12 @@
     },
     "done": true
   },
+  "goblinsanddungeons:goblinsanddungeons/ogres_are_like_onions": {
+    "criteria": {
+      "killed_something": "2023-08-09 14:15:06 -0700"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_blinds": {
     "criteria": {
       "has_the_recipe": "2023-08-03 22:17:28 -0700"
@@ -39306,19 +39386,26 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2023-08-09 13:31:18 -0700",
+      "minecraft:snowy_mountains": "2023-08-09 13:23:25 -0700",
       "minecraft:forest": "2023-08-04 14:21:18 -0700",
+      "minecraft:mountains": "2023-08-09 13:22:08 -0700",
       "minecraft:taiga": "2023-08-05 12:33:00 -0700",
       "minecraft:giant_tree_taiga": "2023-08-05 12:42:10 -0700",
       "minecraft:snowy_tundra": "2023-08-04 15:56:15 -0700",
       "minecraft:frozen_river": "2023-08-04 15:58:38 -0700",
+      "minecraft:deep_frozen_ocean": "2023-08-09 13:31:31 -0700",
       "minecraft:jungle": "2023-08-04 00:56:39 -0700",
       "minecraft:birch_forest": "2023-08-04 15:33:35 -0700",
+      "minecraft:snowy_beach": "2023-08-09 13:45:38 -0700",
       "minecraft:warm_ocean": "2023-08-06 12:32:30 -0700",
       "minecraft:beach": "2023-08-06 12:12:57 -0700",
       "minecraft:dark_forest": "2023-08-04 14:25:51 -0700",
       "minecraft:river": "2023-08-04 14:23:25 -0700",
       "minecraft:lukewarm_ocean": "2023-08-06 12:27:37 -0700",
       "minecraft:snowy_taiga": "2023-08-07 16:25:24 -0700",
+      "minecraft:wooded_mountains": "2023-08-09 13:21:55 -0700",
+      "minecraft:stone_shore": "2023-08-09 13:51:03 -0700",
       "minecraft:savanna": "2023-08-03 22:17:30 -0700",
       "minecraft:plains": "2023-08-06 12:17:58 -0700"
     },
