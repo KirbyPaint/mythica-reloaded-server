@@ -7391,6 +7391,7 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
+      "in_outpost_taiga": "2023-08-10 21:49:49 -0700",
       "in_outpost_oak": "2023-08-06 23:33:57 -0700"
     },
     "done": false
@@ -10951,6 +10952,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2023-08-09 23:06:47 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_oak_spruce_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:17 -0700"
@@ -14039,6 +14046,12 @@
   "structurize:recipes/structurize.timber_frames/one_crossed_lr_jungle_black_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:14 -0700"
+    },
+    "done": true
+  },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2023-08-10 21:48:31 -0700"
     },
     "done": true
   },
@@ -19021,6 +19034,7 @@
       "apple": "2023-08-04 21:48:24 -0700",
       "pumpkin_pie": "2023-08-06 17:51:23 -0700",
       "bread": "2023-08-04 21:52:15 -0700",
+      "melon_slice": "2023-08-10 22:44:31 -0700",
       "cooked_rabbit": "2023-08-06 17:53:44 -0700",
       "carrot": "2023-08-06 15:17:31 -0700"
     },
@@ -23122,6 +23136,7 @@
     "criteria": {
       "entered_stables": "2023-08-06 13:43:11 -0700",
       "entered_pillager_camp": "2023-08-07 22:10:15 -0700",
+      "entered_fishing_ship": "2023-08-10 22:36:15 -0700",
       "entered_tall_witch_hut": "2023-08-06 13:32:04 -0700",
       "entered_large_dungeon": "2023-08-07 15:55:03 -0700",
       "entered_ice_pit": "2023-08-07 22:33:10 -0700",
@@ -24171,7 +24186,8 @@
   },
   "repurposed_structures:witch_huts": {
     "criteria": {
-      "in_witch_hut_taiga": "2023-08-07 13:08:49 -0700"
+      "in_witch_hut_taiga": "2023-08-07 13:08:49 -0700",
+      "in_witch_hut_dark_forest": "2023-08-10 21:36:25 -0700"
     },
     "done": false
   },
@@ -28390,6 +28406,12 @@
   "structurize:recipes/structurize.shingles/gray_clay_crimson_shingle": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:30:59 -0700"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_ruin_vanilla_temple/find_normal": {
+    "criteria": {
+      "requirement": "2023-08-10 23:11:24 -0700"
     },
     "done": true
   },
@@ -33296,6 +33318,7 @@
       "scrubland": "2023-08-04 22:02:40 -0700",
       "fungal_jungle": "2023-08-04 21:54:10 -0700",
       "redwood_forest_edge": "2023-08-06 22:09:05 -0700",
+      "bamboo_blossom_grove": "2023-08-09 22:18:42 -0700",
       "highland": "2023-08-06 15:20:15 -0700",
       "marsh": "2023-08-06 15:06:37 -0700",
       "tundra_basin": "2023-08-07 12:44:18 -0700",
@@ -33310,6 +33333,7 @@
       "snowy_maple_forest": "2023-08-06 17:40:25 -0700",
       "coniferous_forest": "2023-08-06 16:09:58 -0700",
       "alps": "2023-08-06 16:17:20 -0700",
+      "tall_dead_forest": "2023-08-09 22:57:02 -0700",
       "dry_boneyard": "2023-08-06 22:05:57 -0700",
       "redwood_forest": "2023-08-08 22:41:24 -0700",
       "cherry_blossom_grove": "2023-08-06 23:36:57 -0700",
@@ -35329,6 +35353,12 @@
     },
     "done": true
   },
+  "awesomedungeonocean:root": {
+    "criteria": {
+      "awesomedungeonocean:ocean_ruin_vanilla_temple": "2023-08-10 23:11:24 -0700"
+    },
+    "done": true
+  },
   "bountifulbaubles:recipes/bountifulbaubles/disintegration/ender_dragon_scale": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:11 -0700"
@@ -35368,6 +35398,12 @@
   "morecfm:recipes/biomesoplenty_redwood_mail_box": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:12 -0700"
+    },
+    "done": true
+  },
+  "betteranimalsplus:jellyfish_sting": {
+    "criteria": {
+      "jellyfish_sting": "2023-08-09 23:06:28 -0700"
     },
     "done": true
   },
@@ -38840,6 +38876,7 @@
       "minecraft:forest": "2023-08-04 22:05:17 -0700",
       "minecraft:taiga": "2023-08-06 17:08:37 -0700",
       "minecraft:giant_tree_taiga": "2023-08-06 15:59:06 -0700",
+      "minecraft:deep_cold_ocean": "2023-08-10 22:04:10 -0700",
       "minecraft:snowy_tundra": "2023-08-06 16:20:56 -0700",
       "minecraft:frozen_river": "2023-08-07 22:27:43 -0700",
       "minecraft:deep_frozen_ocean": "2023-08-06 16:18:53 -0700",
