@@ -27,7 +27,7 @@ undeadSouls = 50
 	wardingCandleWhitelist = ""
 	#Change this to determine how many of a tier's tasks need to be completed before tiering up is allowed.  It is a percentage of the total tasks in the tier.  If you set this above 1, you cannot tier up through normal gameplay.  Use with caution.
 	#Range: 0.01 ~ 2.0
-	tierCompletePct = 0.8
+	tierCompletePct = 0.5
 	#What the mod considers 'melee distance' between two entities when one attacks the other.  This value is squared, so if you want 8 blocks put 64 in this config.
 	#Range: 1.0 ~ 4096.0
 	meleeDistance = 64.0
