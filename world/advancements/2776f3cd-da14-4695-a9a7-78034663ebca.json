@@ -1442,6 +1442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/betternether/taburet_dark_oak_from_dark_oak_slab": {
+    "criteria": {
+      "dark_oak_slab": "2023-08-17 22:46:22 -0700"
+    },
+    "done": true
+  },
   "morecfm:recipes/biomesoplenty_jacaranda_kitchen_sink_dark": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:16 -0700"
@@ -1600,7 +1606,11 @@
   },
   "betteranimalsplus:animal_head_variants": {
     "criteria": {
-      "boarhead_gray": "2023-08-06 15:31:55 -0700"
+      "feralwolfhead_red": "2023-08-13 22:21:20 -0700",
+      "boarhead_gray": "2023-08-06 15:31:55 -0700",
+      "head8": "2023-08-13 22:21:59 -0700",
+      "head9": "2023-08-13 21:26:40 -0700",
+      "boarhead_light_brown": "2023-08-13 18:42:12 -0700"
     },
     "done": false
   },
@@ -2739,6 +2749,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/citizen_eat_food_rotten_flesh": {
+    "criteria": {
+      "citizen_eat_rotten_flesh": "2023-08-17 23:25:20 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_cactus_green_terracotta_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:15 -0700"
@@ -3351,6 +3367,12 @@
     },
     "done": true
   },
+  "betternether:recipes/betternether/bar_stool_spruce_from_spruce_slab": {
+    "criteria": {
+      "spruce_slab": "2023-08-13 18:08:59 -0700"
+    },
+    "done": true
+  },
   "morecfm:recipes/biomesoplenty_umbran_crate": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:07 -0700"
@@ -3366,6 +3388,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:30:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/betternether/bar_stool_dark_oak_from_dark_oak_slab": {
+    "criteria": {
+      "dark_oak_slab": "2023-08-17 22:46:22 -0700"
     },
     "done": true
   },
@@ -4080,6 +4108,12 @@
   "minecolonies:recipes/food/baked_cake_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:02 -0700"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2023-08-12 22:56:52 -0700"
     },
     "done": true
   },
@@ -7107,6 +7141,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/jungle_post": {
+    "criteria": {
+      "has_item": "2023-08-12 21:23:17 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_warped_beige_brick_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:30:55 -0700"
@@ -7915,6 +7955,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/betternether/bar_stool_spruce_from_spruce_slab": {
+    "criteria": {
+      "spruce_slab": "2023-08-13 18:08:59 -0700"
     },
     "done": true
   },
@@ -9005,6 +9051,12 @@
   "bountifulbaubles:recipes/bountifulbaubles/disintegration/amulet_sin_pride": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:30:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/betternether/chair_dark_oak_from_dark_oak_slab": {
+    "criteria": {
+      "dark_oak_slab": "2023-08-17 22:46:22 -0700"
     },
     "done": true
   },
@@ -12735,6 +12787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2023-08-13 18:46:08 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/up_gated_jungle_light_gray_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:06 -0700"
@@ -14607,6 +14665,12 @@
     },
     "done": true
   },
+  "betternether:recipes/betternether/taburet_spruce_from_spruce_slab": {
+    "criteria": {
+      "spruce_slab": "2023-08-13 18:08:59 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/down_gated_acacia_brown_stone_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:10 -0700"
@@ -14784,6 +14848,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:12 -0700"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2023-08-17 21:55:19 -0700"
     },
     "done": true
   },
@@ -15078,6 +15148,12 @@
   "structurize:recipes/structurize.timber_frames/side_framed_horizontal_warped_paper_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:18 -0700"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_barakoana": {
+    "criteria": {
+      "barakoana": "2023-08-12 23:52:11 -0700"
     },
     "done": true
   },
@@ -16906,6 +16982,12 @@
     },
     "done": true
   },
+  "betternether:recipes/betternether/chair_dark_oak_from_dark_oak_slab": {
+    "criteria": {
+      "dark_oak_slab": "2023-08-17 22:46:22 -0700"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_picket_fence": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:12 -0700"
@@ -17803,6 +17885,12 @@
   "morecfm:recipes/biomesoplenty_stripped_dead_coffee_table": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:15 -0700"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_ruin_pillager/find_normal": {
+    "criteria": {
+      "requirement": "2023-08-13 18:12:02 -0700"
     },
     "done": true
   },
@@ -18910,6 +18998,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/build_tavern": {
+    "criteria": {
+      "tavern": "2023-08-17 21:52:32 -0700"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_orange_picket_gate": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:05 -0700"
@@ -19028,13 +19122,19 @@
     "criteria": {
       "cooked_porkchop": "2023-08-06 16:21:23 -0700",
       "cooked_beef": "2023-08-04 22:27:14 -0700",
+      "baked_potato": "2023-08-13 20:00:06 -0700",
+      "cookie": "2023-08-13 18:23:01 -0700",
+      "suspicious_stew": "2023-08-17 23:40:40 -0700",
       "cooked_chicken": "2023-08-06 13:26:08 -0700",
       "cooked_mutton": "2023-08-06 15:00:18 -0700",
       "sweet_berries": "2023-08-07 22:35:01 -0700",
       "apple": "2023-08-04 21:48:24 -0700",
+      "potato": "2023-08-13 21:25:04 -0700",
       "pumpkin_pie": "2023-08-06 17:51:23 -0700",
       "bread": "2023-08-04 21:52:15 -0700",
+      "golden_apple": "2023-08-13 21:24:57 -0700",
       "melon_slice": "2023-08-10 22:44:31 -0700",
+      "beetroot": "2023-08-13 22:55:53 -0700",
       "cooked_rabbit": "2023-08-06 17:53:44 -0700",
       "carrot": "2023-08-06 15:17:31 -0700"
     },
@@ -19151,6 +19251,12 @@
   "structurize:recipes/structurize.timber_frames/plain_dark_oak_beige_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:30:59 -0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/betternether/taburet_dark_oak_from_dark_oak_slab": {
+    "criteria": {
+      "dark_oak_slab": "2023-08-17 22:46:22 -0700"
     },
     "done": true
   },
@@ -21116,6 +21222,12 @@
     },
     "done": true
   },
+  "minecolonies:production/build_warehouse": {
+    "criteria": {
+      "warehouse": "2023-08-18 00:24:06 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/framed_cactus_stone_bricks_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:17 -0700"
@@ -22904,6 +23016,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/build_citizen": {
+    "criteria": {
+      "citizens_hut": "2023-08-17 23:08:00 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/framed_acacia_crimson_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:04 -0700"
@@ -23134,13 +23252,18 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2023-08-13 20:52:29 -0700",
       "entered_stables": "2023-08-06 13:43:11 -0700",
       "entered_pillager_camp": "2023-08-07 22:10:15 -0700",
+      "entered_hay_storage": "2023-08-12 23:59:25 -0700",
+      "entered_flying_dutchman": "2023-08-13 18:32:02 -0700",
       "entered_fishing_ship": "2023-08-10 22:36:15 -0700",
+      "entered_druid_circle": "2023-08-12 23:57:19 -0700",
       "entered_tall_witch_hut": "2023-08-06 13:32:04 -0700",
       "entered_large_dungeon": "2023-08-07 15:55:03 -0700",
       "entered_ice_pit": "2023-08-07 22:33:10 -0700",
       "entered_castle": "2023-08-07 13:47:59 -0700",
+      "entered_watch_tower": "2023-08-13 19:11:20 -0700",
       "entered_ruined_building": "2023-08-04 22:29:21 -0700",
       "entered_witch_tower": "2023-08-06 15:57:31 -0700"
     },
@@ -23333,6 +23456,7 @@
       "minecraft:stray": "2023-08-06 17:37:02 -0700",
       "minecraft:silverfish": "2023-08-06 21:14:12 -0700",
       "minecraft:enderman": "2023-08-07 22:28:04 -0700",
+      "minecraft:vex": "2023-08-13 22:12:53 -0700",
       "minecraft:zombie": "2023-08-06 13:14:23 -0700",
       "minecraft:drowned": "2023-08-08 22:26:47 -0700"
     },
@@ -24064,6 +24188,12 @@
     },
     "done": true
   },
+  "minecolonies:production/build_delivery_person": {
+    "criteria": {
+      "delivery_person": "2023-08-17 23:57:27 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/one_crossed_rl_birch_cream_brick_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:03 -0700"
@@ -24596,6 +24726,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/big_pink_glazed_jar": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:18 -0700"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2023-08-18 00:28:23 -0700"
     },
     "done": true
   },
@@ -26105,6 +26241,12 @@
     },
     "done": true
   },
+  "betternether:recipes/betternether/chair_spruce_from_spruce_slab": {
+    "criteria": {
+      "spruce_slab": "2023-08-13 18:08:59 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/up_gated_crimson_jungle_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:18 -0700"
@@ -26378,6 +26520,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/betternether/taburet_spruce_from_spruce_slab": {
+    "criteria": {
+      "spruce_slab": "2023-08-13 18:08:59 -0700"
     },
     "done": true
   },
@@ -27278,6 +27426,12 @@
   "storagedrawers:recipes/storagedrawers/upgrade_template": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/betternether/chair_spruce_from_spruce_slab": {
+    "criteria": {
+      "spruce_slab": "2023-08-13 18:08:59 -0700"
     },
     "done": true
   },
@@ -28208,6 +28362,12 @@
   "bountifulbaubles:recipes/bountifulbaubles/ankh_charm": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:04 -0700"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_pole": "2023-08-12 21:50:32 -0700"
     },
     "done": true
   },
@@ -30953,6 +31113,12 @@
     },
     "done": true
   },
+  "awesomedungeonocean:ocean_quad/find_normal": {
+    "criteria": {
+      "requirement": "2023-08-12 22:35:48 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_cactus_blue_terracotta_timber_frame_crafted": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:15 -0700"
@@ -32107,7 +32273,11 @@
   },
   "betteranimalsplus:animal_head_all": {
     "criteria": {
-      "head16": "2023-08-06 15:31:55 -0700"
+      "feralwolfhead_red": "2023-08-13 22:21:20 -0700",
+      "head8": "2023-08-13 22:21:59 -0700",
+      "head16": "2023-08-06 15:31:55 -0700",
+      "head9": "2023-08-13 21:26:40 -0700",
+      "head14": "2023-08-13 18:42:12 -0700"
     },
     "done": false
   },
@@ -33281,6 +33451,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2023-08-17 23:06:31 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/plain_spruce_paper_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:06 -0700"
@@ -33314,8 +33490,11 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "deep_bayou": "2023-08-06 14:03:55 -0700",
+      "woodland": "2023-08-13 23:23:26 -0700",
       "seasonal_pumpkin_patch": "2023-08-04 21:45:54 -0700",
       "scrubland": "2023-08-04 22:02:40 -0700",
+      "bayou_mangrove": "2023-08-12 23:52:34 -0700",
+      "grassland_clover_patch": "2023-08-12 23:42:31 -0700",
       "fungal_jungle": "2023-08-04 21:54:10 -0700",
       "redwood_forest_edge": "2023-08-06 22:09:05 -0700",
       "bamboo_blossom_grove": "2023-08-09 22:18:42 -0700",
@@ -33324,6 +33503,7 @@
       "tundra_basin": "2023-08-07 12:44:18 -0700",
       "flower_meadow": "2023-08-06 17:11:41 -0700",
       "grove_clearing": "2023-08-08 23:18:34 -0700",
+      "wetland": "2023-08-13 23:51:37 -0700",
       "meadow_forest": "2023-08-07 14:24:07 -0700",
       "mystic_grove": "2023-08-07 16:34:14 -0700",
       "wooded_scrubland": "2023-08-06 22:01:36 -0700",
@@ -33338,7 +33518,9 @@
       "redwood_forest": "2023-08-08 22:41:24 -0700",
       "cherry_blossom_grove": "2023-08-06 23:36:57 -0700",
       "seasonal_orchard": "2023-08-06 23:07:45 -0700",
+      "highland_moor": "2023-08-12 23:35:42 -0700",
       "seasonal_forest": "2023-08-06 15:21:31 -0700",
+      "grove_lakes": "2023-08-12 23:54:59 -0700",
       "dense_woodland": "2023-08-06 23:05:20 -0700",
       "mystic_plains": "2023-08-06 23:49:28 -0700",
       "dead_forest": "2023-08-06 17:00:18 -0700",
@@ -33346,6 +33528,7 @@
       "meadow": "2023-08-06 15:57:27 -0700",
       "rainforest_cliffs": "2023-08-06 15:21:28 -0700",
       "fir_clearing": "2023-08-06 15:49:06 -0700",
+      "prairie": "2023-08-12 23:38:40 -0700",
       "snowy_coniferous_forest": "2023-08-06 16:09:04 -0700",
       "snowy_fir_clearing": "2023-08-06 16:32:25 -0700",
       "ominous_mire": "2023-08-06 17:45:44 -0700",
@@ -33641,6 +33824,12 @@
   "structurize:recipes/structurize.timber_frames/horizontal_plain_warped_acacia_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:13 -0700"
+    },
+    "done": true
+  },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2023-08-13 21:20:14 -0700"
     },
     "done": true
   },
@@ -34307,6 +34496,12 @@
   "biomesoplenty:recipes/redstone/magic_button": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2023-08-13 23:11:42 -0700"
     },
     "done": true
   },
@@ -36973,6 +37168,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/build_town_hall": {
+    "criteria": {
+      "town_hall": "2023-08-17 22:12:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:14 -0700"
@@ -38874,6 +39075,7 @@
       "minecraft:cold_ocean": "2023-08-06 16:12:08 -0700",
       "minecraft:snowy_mountains": "2023-08-07 12:59:44 -0700",
       "minecraft:forest": "2023-08-04 22:05:17 -0700",
+      "minecraft:mountains": "2023-08-17 22:27:23 -0700",
       "minecraft:taiga": "2023-08-06 17:08:37 -0700",
       "minecraft:giant_tree_taiga": "2023-08-06 15:59:06 -0700",
       "minecraft:deep_cold_ocean": "2023-08-10 22:04:10 -0700",
@@ -38887,9 +39089,11 @@
       "minecraft:beach": "2023-08-06 15:58:20 -0700",
       "minecraft:dark_forest": "2023-08-04 21:24:52 -0700",
       "minecraft:river": "2023-08-04 22:11:04 -0700",
+      "minecraft:lukewarm_ocean": "2023-08-13 18:36:46 -0700",
       "minecraft:snowy_taiga": "2023-08-06 20:25:44 -0700",
       "minecraft:wooded_mountains": "2023-08-07 13:55:13 -0700",
       "minecraft:stone_shore": "2023-08-06 16:20:53 -0700",
+      "minecraft:mushroom_field_shore": "2023-08-13 18:56:09 -0700",
       "minecraft:swamp": "2023-08-06 15:06:38 -0700",
       "minecraft:savanna": "2023-08-03 20:31:18 -0700",
       "minecraft:plains": "2023-08-06 13:42:11 -0700"
@@ -39190,6 +39394,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_leggings": "2023-08-12 22:01:11 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/double_crossed_crimson_acacia_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:17 -0700"
@@ -39373,6 +39583,12 @@
   "cfm:recipes/cfm/birch_hedge": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:14 -0700"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:in_the_air": {
+    "criteria": {
+      "entered_flying_dutchman": "2023-08-13 18:32:02 -0700"
     },
     "done": true
   },
@@ -40030,6 +40246,12 @@
     },
     "done": true
   },
+  "betternether:recipes/betternether/bar_stool_dark_oak_from_dark_oak_slab": {
+    "criteria": {
+      "dark_oak_slab": "2023-08-17 22:46:22 -0700"
+    },
+    "done": true
+  },
   "structurize:recipes/structurize.timber_frames/framed_acacia_white_terracotta_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:11 -0700"
@@ -40237,6 +40459,12 @@
   "structurize:recipes/structurize.timber_frames/up_gated_oak_spruce_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 20:31:01 -0700"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_ruin_pillager/find_during_rain": {
+    "criteria": {
+      "requirement": "2023-08-13 21:43:55 -0700"
     },
     "done": true
   },
