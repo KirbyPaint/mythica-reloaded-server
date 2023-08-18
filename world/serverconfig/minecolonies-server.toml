@@ -42,7 +42,7 @@
 	#Should citizen name tags be rendered? [Default: true]
 	alwaysrendernametag = true
 	#Should workers work during the rain? [Default: false]
-	workersalwaysworkinrain = false
+	workersalwaysworkinrain = true
 	#Should players be sent entering/leaving colony notifications? [Default: true]
 	sendenteringleavingmessages = true
 	#Should players be allowed to change citizen names? -1 for false, 0 for certain players only, 1 for true. (To set which players can change the names, see "Special Permissions Group" below.) [Default: 1, min: -1, max: 1]
@@ -71,7 +71,7 @@
 	foodmodifier = 1.0
 	#How common diseases are. 1 = Very common, 100 = extremely rare. [Default: 5, min: 1, max: 100]
 	#Range: 1 ~ 100
-	diseasemodifier = 5
+	diseasemodifier = 15
 	#If part of the colony is loaded by an owner/officer, should the colony be kept loaded? (Set how many chunks are loaded with the "Colony Chunk Loading Strictness" option.) [Default: false]
 	forceloadcolony = false
 	#This controls how many chunks are loaded with the "Chunk Load Colony" option. The higher this value, the fewer chunks will be loaded. (The innermost chunks will be loaded first.) 1 = load all claimed chunks. [Default: 3, min: 1, max: 15]
