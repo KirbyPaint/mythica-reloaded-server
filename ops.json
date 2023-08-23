@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "5e838a14-f227-4a1b-b211-aca42f2c1891",
+    "name": "KirbyPaint",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
