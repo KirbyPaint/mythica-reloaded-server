@@ -10755,6 +10755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2023-08-24 18:18:11 -0700"
+    },
+    "done": true
+  },
   "bountifulbaubles:recipes/bountifulbaubles/disintegration/shield_ankh": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:41:02 -0700"
@@ -18918,6 +18924,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2023-08-03 23:01:53 -0700",
+      "baked_potato": "2023-08-24 19:07:36 -0700",
       "apple": "2023-08-03 23:02:09 -0700",
       "bread": "2023-08-04 23:03:46 -0700",
       "rotten_flesh": "2023-08-04 16:22:59 -0700",
@@ -24674,6 +24681,12 @@
   "structurize:recipes/structurize.shingles/magenta_clay_cactus_shingle": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:40:47 -0700"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/building_add_recipe_torch": {
+    "criteria": {
+      "add_recipe_torch": "2023-08-24 18:30:26 -0700"
     },
     "done": true
   },
@@ -34025,6 +34038,12 @@
   "structurize:recipes/structurize.timber_frames/side_framed_birch_acacia_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-08-03 18:40:45 -0700"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_miner": {
+    "criteria": {
+      "miner": "2023-08-24 17:42:03 -0700"
     },
     "done": true
   },
