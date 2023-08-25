@@ -32,10 +32,7 @@
       "ambient": [],
       "water_creature": [],
       "water_ambient": [],
-      "misc": [],
-      "pvj_ambient": [],
-      "pvj_water_ambient": [],
-      "pvj_night_ambient": []
+      "misc": []
     },
     "spawn_costs": {},
     "player_spawn_friendly": false
